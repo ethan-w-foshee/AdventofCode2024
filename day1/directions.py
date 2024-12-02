@@ -1,5 +1,5 @@
 # Get the list, and define some variables
-master = open("master.txt", "r")
+master = open("./day1/master.txt", "r")
 list1 = []
 list2 = []
 finalSum = 0
