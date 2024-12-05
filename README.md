@@ -33,8 +33,21 @@ The main challenge I ran into was forgetting how to manuver through Python. Once
 <a name="day2"></a>
 
 # Day 2
+### Part 1
+<Details>
+  <Summary>Part 1 Solution</Summary>
+  Jeez. Where to begin with this one. This day kicked my butt, both parts did. My end solution for part 1 was to check each criteria in separate
+  functions. First was checking if the set of numbers were ascending or descending, then checking for any duplicate numbers, and lastely checking
+  the difference between numbers while iterating. If everything returned as true, then I added to a total success counter.
+</Details>
 
+### Part 2
+<Details>
+  <Summary>Part 2 Solution</Summary>
+  This one kicked me so much. I struggled, and struggled, and struggled. I tried checking and iterating through the sets of numbers with a difference of two, or removing a specific number then checking the entire set of numbers again.
 
+  After the next 48+ hours, I tried many solutions, and went with the developer solution in the end. I conceeded, asked for help, and found the code online, and used that.
+</Details>
 <a name="day3"></a>
 
 # Day 3
